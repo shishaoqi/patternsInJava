@@ -1,4 +1,4 @@
-package simpleFactory.interfaces;
+package simpleFactory.demo2.interfaces;
 
 public interface Api {
     /**

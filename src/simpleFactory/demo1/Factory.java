@@ -1,6 +1,6 @@
-package simpleFactory;
+package simpleFactory.demo1;
 
-import simpleFactory.interfaces.Api;
+import simpleFactory.demo1.interfaces.Api;
 
 public class Factory {
     public static Api createApi(int condition) {

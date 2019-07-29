@@ -1,6 +1,6 @@
-package simpleFactory;
+package simpleFactory.demo1;
 
-import simpleFactory.interfaces.Api;
+import simpleFactory.demo1.interfaces.Api;
 
 public class ImplB implements Api {
     public void operation(String s) {
